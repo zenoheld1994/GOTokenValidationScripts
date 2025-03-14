@@ -1,0 +1,1 @@
+These scripts allows you to check tokens created by Firebase and then use it to check if a user gets attached specific claims using the ADMINN SDK, after that the token can be verified, the data is hardcoded, please follow the comments to properly run the code, the HTML page can be used to check the result.
